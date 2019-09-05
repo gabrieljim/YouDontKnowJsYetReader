@@ -17,4 +17,4 @@ app.post('/', (req, res) => {
         })
 })
 
-app.listen(3000, () => console.log("Sever listening...\nHead to http://localhost:3000"));
+app.listen(3000, () => console.log("Server listening...\nHead to http://localhost:3000"));
